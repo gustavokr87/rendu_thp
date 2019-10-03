@@ -1,1 +1,5 @@
-#rend-_thp
+#rendu-_thp
+
+Gustavo Ramos 
+
+THP exercises. 
